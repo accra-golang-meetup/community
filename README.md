@@ -4,6 +4,7 @@ Welcome to the Accra Golang Meetup community!
 
 This is the starting point for joining and contributing to the community - improving docs, improving code, giving talks etc.
 Most of the docs are incomplete so please feel free to file an issue against this project for missing docs.
+
 The docs here and in many places are based on content from the [Kubernetes Community](https://github.com/kubernetes/community).
 
 ## Communicating

@@ -22,7 +22,8 @@ that interest you, but please read our [Slack Guidelines] before participating.
 If you want to add a new channel, simply file a request.
 
 ## Mailing lists
-There are currently no mailing lists.
+
+[Accra Golang Meetup](https://groups.google.com/forum/#!forum/accra-golang-meetup) - Primary mailing list.
 
 ## Accessing community documents
 
@@ -40,4 +41,5 @@ Meetups are held once a month. Please refer to [this page](https://www.meetup.co
 to learn more.
 
 If you have a topic you'd like to present or would like to see discussed,
-please propose it on the agenda for the meetup.
+please propose it on the [agenda](https://docs.google.com/document/d/1UA3rHWalGD3ADP-0JrDOD7u54CpVjAvi5B-FuqBly-s/edit#heading=h.dxkqxxqfedyl)
+for the meetup.
